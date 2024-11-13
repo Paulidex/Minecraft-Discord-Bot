@@ -91,7 +91,7 @@ async def help(ctx):
     embed.add_field(name='`+major`', value='Displays major rules.', inline=False)
     embed.add_field(name='`+trial`', value='Displays rules applicable in trial.', inline=False)
     embed.add_field(name='`+staff`', value='Displays Minecraft staff rules.', inline=False)
-    embed.add_field(name='`+clan`', value='Displays clan rules.', inline=False)
+    embed.add_field(name='`+clans`', value='Displays clan rules.', inline=False)
     embed.add_field(name='`+commands`', value='List of commands you can use on the server.', inline=False)
     embed.add_field(name='`+store`', value='Donations and ranks page.', inline=False)
     embed.add_field(name='Emergency', value='To report a bug or issue with OlympusBot, contact the creator Paulidex.', inline=False)
